@@ -38,7 +38,7 @@ Ai agent to check pros and cons of a bussiness idea and it's chance of profitabl
 1. Run the app:
 
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. Open your web browser and navigate to the provided URL. http://localhost:8501
